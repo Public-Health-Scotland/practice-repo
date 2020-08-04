@@ -10,3 +10,6 @@ z <- x+y
 
 #average x and y
 t <- c(x+y)/n
+
+#Multiply x and y
+a <- x*y
