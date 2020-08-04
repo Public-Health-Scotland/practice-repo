@@ -7,3 +7,6 @@ y <- c(4, 7, 8, 9, 10)
 #summing up x and y
 z <- x+y
 
+
+#average x and y
+t <- c(x+y)/n
