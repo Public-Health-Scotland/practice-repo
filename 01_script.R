@@ -13,3 +13,5 @@ t <- c(x+y)/n
 
 #Multiply x and y
 a <- x*y
+
+21+83
