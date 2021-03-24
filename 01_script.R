@@ -1,6 +1,6 @@
 # This is a line of code
 
-x <- c(1, 2, 3, 4, 5)
+x <- c(1, 2, 3, 4, 5, 60)
 z <- c()
 
 clare
