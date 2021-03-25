@@ -16,3 +16,7 @@
 #me too
 #oh i think i did it wrong last time
 
+y <- c("hello", "please", "why", "when")
+
+print(y)
+
