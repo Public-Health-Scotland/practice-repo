@@ -20,3 +20,4 @@ y <- c("hello", "please", "why", "when")
 
 print(y)
 
+x <- c(5,2,10,5)
